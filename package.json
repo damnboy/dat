@@ -53,7 +53,7 @@
     "prompt": "^1.0.0",
     "pump": "^2.0.0",
     "rimraf": "^2.6.1",
-    "speedometer": "^1.0.0",
+    "speedometer": "1.0.0",
     "subcommand": "^2.1.0",
     "throttle": "^1.0.3",
     "update-notifier": "^2.3.0",
